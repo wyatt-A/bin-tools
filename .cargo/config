@@ -1,0 +1,2 @@
+[profile.debug]
+opt-level = 3
