@@ -1,2 +1,2 @@
-[profile.debug]
+[profile.dev]
 opt-level = 3
